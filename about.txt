@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About</title>
+</head>
+<body>
+<a href="vodafone.html"><img src="logo.jpg"width=":120" height="120"></a>
+
+<h1>About Us</h1>
+
+<img src="vodafone.jpg" alt="the future is exciting">
+
+<br><br>
+<p> Vodafone Group plc is a British multinational telecommunications conglomerate, with headquarters in London.It operates services in the regions of Asia, Africa, Europe, and Oceania. Among mobile operator groups globally, Vodafone ranked second (behind China Mobile) in the number of mobile customers (535 million) as of 2018
+Vodafone owns and operates networks in 25 countries, and has partner networks in 47 further countries. Its Vodafone Global Enterprise division provides telecommunications and IT services to corporate clients in 150 countries.</p>
+
+<style>
+h2 {color:red;}
+</style>
+     <h2>Contact Us</h2>
+ <ol>
+  <li>Mariam Mazen,Number:01123200800,Email:marioumamazen@gmail.com</li>
+  <li>Malak Atef,Number:01012964803,Email:malakatefgamal@gmail.com</li>
+  <li>Mai Khaled,Number:01126852466,Email:maykhaled248@gmail.coms</li>
+ </ol>
+</body>
+</html>
